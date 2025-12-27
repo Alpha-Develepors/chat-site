@@ -1,0 +1,5 @@
+body{font-family:Arial;background:#ece5dd}
+.box{width:300px;margin:120px auto;background:#fff;padding:20px}
+input,button{width:100%;margin:5px 0;padding:8px}
+.chat{width:400px;margin:30px auto;background:#fff;padding:10px}
+#messages{height:300px;overflow:auto}
